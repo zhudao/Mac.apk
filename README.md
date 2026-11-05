@@ -9,7 +9,7 @@
 
 ### 📱 [Which apps work? See the compatibility list →](COMPATIBILITY.md)
 
-[![Apps tested: 71](https://img.shields.io/badge/apps%20tested-71-6c5ce7)](COMPATIBILITY.md) [![Fully playable: 58](https://img.shields.io/badge/fully%20playable-58-2ea44f)](COMPATIBILITY.md) [![Partly works: 10](https://img.shields.io/badge/partly%20works-10-dfb317)](COMPATIBILITY.md) [![Not yet: 3](https://img.shields.io/badge/not%20yet-3-e05d44)](COMPATIBILITY.md)
+[![Apps tested: 76](https://img.shields.io/badge/apps%20tested-76-6c5ce7)](COMPATIBILITY.md) [![Fully playable: 62](https://img.shields.io/badge/fully%20playable-62-2ea44f)](COMPATIBILITY.md) [![Partly works: 9](https://img.shields.io/badge/partly%20works-9-dfb317)](COMPATIBILITY.md) [![Not yet: 5](https://img.shields.io/badge/not%20yet-5-e05d44)](COMPATIBILITY.md)
 
 ---
 
@@ -76,10 +76,14 @@ stores are in the [Installation](https://github.com/kksimp/Mac.apk/wiki/Installa
 > in the Mac.apk window cleans it up and can keep your saves for a reinstall.
 > [More →](https://github.com/kksimp/Mac.apk/wiki/Managing-Apps)
 
-## Known issues in v1.0.2303
+## Known issues in v1.0.2377
 
 See [Known issues](https://github.com/kksimp/Mac.apk/wiki/Known-Issues) for this release, and the
 [compatibility list](COMPATIBILITY.md) for every app tested by hand.
+
+## Contributors
+
+Mac.apk has had a lot of help from people outside the project: @5566brs, @defia, @chuenlok, @Mistarille224, @m9rco, @wishbone305, @kushu7, @YuKongA, @hlwhl, @lxy2500798479 and @blueagler. Thank you. See [CONTRIBUTORS.md](CONTRIBUTORS.md) for who did what, and [CONTRIBUTING.md](CONTRIBUTING.md) if you would like to join in.
 
 ## Reporting problems
 
